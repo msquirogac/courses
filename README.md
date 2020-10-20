@@ -1,4 +1,7 @@
 ## Specializations
+Embedding Sensors and Motors by University of Colorado Boulder on Coursera
+[link](https://coursera.org/verify/specialization/LFDPPEURJGFU)
+
 09/2020
 Computer Communications by University of Colorado System on Coursera
 [link](https://coursera.org/verify/specialization/S422L6Y72Q4U)
