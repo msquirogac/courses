@@ -33,6 +33,10 @@ Python for Everybody by University of Michigan on Coursera
 
 
 ## Courses
+10/2020
+Embedded Software and Hardware Architecture by University of Colorado Boulder on Coursera
+[link](https://coursera.org/verify/4JML4EZ9T7GR)
+
 08/2020
 Fundamentals of Digital Image and Video Processing by Northwestern University on Coursera
 [link](https://coursera.org/verify/VEX4Z567P9NC)
