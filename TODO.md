@@ -3,10 +3,10 @@
 - Self-Driving Cars [link](https://www.coursera.org/learn/motion-planning-self-driving-cars/home/welcome)
 - Reinforcement Learning [link](https://www.coursera.org/learn/complete-reinforcement-learning-system/home/welcome)
 - Electrónica en cápsulas [link](https://www.coursera.org/learn/entrenar-electrones-diodos-transistores/home/welcome) [link](https://www.coursera.org/learn/entrenar-electrones-aplicaciones-electronica/home/welcome)
-- MATLAB Programming for Engineers and Scientists [link](https://www.coursera.org/learn/matlab/home/welcome) [link](https://www.coursera.org/learn/advanced-matlab-programming/home/welcome) [link](https://www.coursera.org/learn/matlab-image-processing/home/welcome) 
-- FPGA Design for Embedded Systems [link](https://www.coursera.org/learn/intro-fpga-design-embedded-systems/home/welcome) [link](https://www.coursera.org/learn/fpga-hardware-description-languages/home/welcome) [link](https://www.coursera.org/learn/fpga-softcore-proccessors-ip/home/welcome)
 
 ### Starting
+- MATLAB Programming for Engineers and Scientists [link](https://www.coursera.org/learn/matlab/home/welcome) [link](https://www.coursera.org/learn/advanced-matlab-programming/home/welcome) [link](https://www.coursera.org/learn/matlab-image-processing/home/welcome) 
+- FPGA Design for Embedded Systems [link](https://www.coursera.org/learn/intro-fpga-design-embedded-systems/home/welcome) [link](https://www.coursera.org/learn/fpga-hardware-description-languages/home/welcome) [link](https://www.coursera.org/learn/fpga-softcore-proccessors-ip/home/welcome)
 - Spacecraft Dynamics and Control [link](https://www.coursera.org/learn/spacecraft-dynamics-kinematics/home/welcome) [link](https://www.coursera.org/learn/spacecraft-dynamics-kinetics/home/welcome) [link](https://www.coursera.org/learn/nonlinear-spacecraft-attitude-control/home/welcome) [link](https://www.coursera.org/learn/capstone-mars-mission/home/welcome)
 - Modern Robotics: Mechanics, Planning, and Control
 - Mathematics for Data Science
@@ -22,10 +22,10 @@
 ### In progress
 - Introduction to Embedded Systems Software and Development Environments [link](https://www.coursera.org/learn/introduction-embedded-systems/home/welcome)
 - Predictive Modeling and Machine Learning with MATLAB [link](https://www.coursera.org/learn/predictive-modeling-machine-learning/home/welcome)
-- Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python [link](https://www.coursera.org/learn/computers-waves-simulations/home/welcome)
-- The Finite Element Method for Problems in Physics [link](https://www.coursera.org/learn/finite-element-method/home/welcome)
 
 ### Starting
+- Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python [link](https://www.coursera.org/learn/computers-waves-simulations/home/welcome)
+- The Finite Element Method for Problems in Physics [link](https://www.coursera.org/learn/finite-element-method/home/welcome)
 - Introdução ao Controle de Sistemas [link](https://www.coursera.org/learn/controle/home/welcome)
 - Introdução ao Controle Moderno
 - Controle a Tempo Discreto
