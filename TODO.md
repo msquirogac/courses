@@ -34,3 +34,7 @@
 - Real-Time Embedded Systems Theory and Analysis
 - Real-Time Mission-Critical Systems Design
 - Real-Time Embedded Systems Concepts and Practices
+- Introduction to Electronics
+- Linear Circuits 1: DC Analysis
+- Linear Circuits 2: AC Analysis
+
