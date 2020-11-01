@@ -17,6 +17,8 @@
 - Google IT Automation with Python
 - Coding for Everyone: C and C++
 - Computational Thinking with Beginning C Programming
+- An Introduction to Programming the Internet of Things (IOT) Specialization [link](https://www.coursera.org/specializations/iot)
+- Developing Industrial Internet of Things Specialization [link](https://www.coursera.org/specializations/developing-industrial-iot)
 
 ## Courses
 ### In progress
