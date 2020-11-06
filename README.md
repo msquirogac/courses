@@ -49,6 +49,18 @@ Fundamentals of Digital Image and Video Processing by Northwestern University on
 Machine Learning by Stanford University on Coursera
 [link](https://coursera.org/verify/FAEKTRGDPMPU)
 
+08/2020
+Data Processing and Feature Engineering with MATLAB by MathWorks
+[link](https://coursera.org/verify/ESDY7HV5D79X)
+
+08/2020
+Exploratory Data Analysis with MATLAB by MathWorks
+[link](https://coursera.org/verify/5FW6VK5KVPPN)
+
 07/2020
 The Bits and Bytes of Computer Networking by Google on Coursera
 [link](https://coursera.org/verify/5LY5FY7FP2PH)
+
+07/2020
+Introduction to Data Science in Python by University of Michigan
+[link](https://coursera.org/verify/SS28LXU94CGG)
