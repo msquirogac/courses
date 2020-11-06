@@ -1,4 +1,8 @@
 ## Specializations
+11/2020
+Reinforcement Learning by University of Alberta & Alberta Machine Intelligence Institute on Coursera
+[link](https://coursera.org/verify/specialization/AYK6EEWRGQBY)
+
 10/2020
 Embedding Sensors and Motors by University of Colorado Boulder on Coursera
 [link](https://coursera.org/verify/specialization/LFDPPEURJGFU)
