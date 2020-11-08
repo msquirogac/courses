@@ -32,7 +32,7 @@
 
 ## Courses
 ### In progress
-- Introduction to Internet of Things [link](https://learning.stanford.edu/online/course/view.php?id=540&program=scpd#)
+- Introduction to Internet of Things by Stanford University [link](https://learning.stanford.edu/online/course/view.php?id=540&program=scpd#)
 - Introduction to Embedded Systems Software and Development Environments [link](https://www.coursera.org/learn/introduction-embedded-systems/home/welcome)
 - Predictive Modeling and Machine Learning with MATLAB [link](https://www.coursera.org/learn/predictive-modeling-machine-learning/home/welcome)
 
