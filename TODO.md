@@ -1,3 +1,11 @@
+## Graduate Degree
+### In progress
+- Master’s Degree in Electrical Engineering by University of Colorado Boulder [link](https://www.colorado.edu/ecee/online-masters/graduate-degree)
+
+## Graduate Certificates
+### In progress
+- Industrial Internet of Things Certificate by University of Colorado Boulder [link](https://www.colorado.edu/ecee/msee/graduate-certificates)
+
 ## Specializations
 ### In progress
 - Self-Driving Cars [link](https://www.coursera.org/learn/motion-planning-self-driving-cars/home/welcome)
@@ -40,12 +48,5 @@
 - Linear Circuits 1: DC Analysis
 - Linear Circuits 2: AC Analysis
 
-## Graduate Certificates
-### In progress
-- Industrial Internet of Things Certificate by University of Colorado Boulder
-
-## Graduate Degree
-### In progress
-- Master’s Degree in Electrical Engineering by University of Colorado Boulder
 
 
