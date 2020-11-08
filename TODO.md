@@ -18,8 +18,8 @@
 - Spacecraft Dynamics and Control [link](https://www.coursera.org/learn/spacecraft-dynamics-kinematics/home/welcome) [link](https://www.coursera.org/learn/spacecraft-dynamics-kinetics/home/welcome) [link](https://www.coursera.org/learn/nonlinear-spacecraft-attitude-control/home/welcome) [link](https://www.coursera.org/learn/capstone-mars-mission/home/welcome)
 - Robotics [link](https://www.coursera.org/specializations/robotics) [link](https://www.coursera.org/learn/robotics-flight/home/welcome) [link](https://www.coursera.org/learn/robotics-motion-planning/home/welcome) [link](https://www.coursera.org/learn/robotics-mobility/home/welcome) [link](https://www.coursera.org/learn/robotics-perception/home/welcome) [link](https://www.coursera.org/learn/robotics-learning/home/welcome)
 - Accelerated Computer Science Fundamentals [link](https://www.coursera.org/specializations/cs-fundamentals) [link](https://www.coursera.org/learn/cs-fundamentals-1/home/welcome) [link](https://www.coursera.org/learn/cs-fundamentals-2/home/welcome) [link](https://www.coursera.org/learn/cs-fundamentals-3/home/welcome)
+- Development of Secure Embedded Systems [link](https://www.coursera.org/specializations/embedded-systems-security) [link](https://www.coursera.org/learn/embedded-operating-system/home/welcome) [link](https://www.coursera.org/learn/iot-connectivity-security/home/welcome) [link](https://www.coursera.org/learn/real-time-systems/home/welcome) [link](https://www.coursera.org/learn/autonomous-runway-detection/home/welcome)
 - Algorithms [link](https://www.coursera.org/specializations/algorithms) [link](https://www.coursera.org/learn/algorithms-divide-conquer/home/welcome) [link](https://www.coursera.org/learn/algorithms-graphs-data-structures/home/welcome) [link](https://www.coursera.org/learn/algorithms-greedy/home/welcome) [link](https://www.coursera.org/learn/algorithms-npcomplete/home/welcome)
-- Modern Robotics: Mechanics, Planning, and Control
 - Mathematics for Data Science
 - Programming with Google Go
 - Fundamentals of Computing
@@ -28,6 +28,8 @@
 - Google IT Automation with Python
 - Coding for Everyone: C and C++
 - Computational Thinking with Beginning C Programming
+- Modern Robotics: Mechanics, Planning, and Control
+
 ## Courses
 ### In progress
 - Introduction to Internet of Things [link](https://learning.stanford.edu/online/course/view.php?id=540&program=scpd#)
