@@ -29,6 +29,7 @@
 - Coding for Everyone: C and C++
 - Computational Thinking with Beginning C Programming
 - Modern Robotics: Mechanics, Planning, and Control
+- Emerging Technologies: From Smartphones to IoT to Big Data [link](https://www.coursera.org/specializations/emerging-technologies)
 
 ## Courses
 ### In progress
