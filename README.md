@@ -37,6 +37,10 @@ Python for Everybody by University of Michigan on Coursera
 
 
 ## Courses
+11/2020
+Getting Started with AI on Jetson Nano by NVIDIA Deep Learning Institute
+[link](https://courses.nvidia.com/certificates/395eb19bcaa74e15b5c5e2d7d93222ea)
+
 10/2020
 Embedded Software and Hardware Architecture by University of Colorado Boulder on Coursera
 [link](https://coursera.org/verify/4JML4EZ9T7GR)
