@@ -38,6 +38,10 @@ Python for Everybody by University of Michigan on Coursera
 
 ## Courses
 11/2020
+Introduction to Internet of Things by Stanford University
+
+
+11/2020
 Getting Started with AI on Jetson Nano by NVIDIA Deep Learning Institute
 [link](https://courses.nvidia.com/certificates/395eb19bcaa74e15b5c5e2d7d93222ea)
 
