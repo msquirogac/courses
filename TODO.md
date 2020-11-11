@@ -20,6 +20,7 @@
 - Development of Secure Embedded Systems [link](https://www.coursera.org/specializations/embedded-systems-security) [link](https://www.coursera.org/learn/embedded-operating-system/home/welcome) [link](https://www.coursera.org/learn/iot-connectivity-security/home/welcome) [link](https://www.coursera.org/learn/real-time-systems/home/welcome) [link](https://www.coursera.org/learn/autonomous-runway-detection/home/welcome)
 - Algorithms [link](https://www.coursera.org/specializations/algorithms) [link](https://www.coursera.org/learn/algorithms-divide-conquer/home/welcome) [link](https://www.coursera.org/learn/algorithms-graphs-data-structures/home/welcome) [link](https://www.coursera.org/learn/algorithms-greedy/home/welcome) [link](https://www.coursera.org/learn/algorithms-npcomplete/home/welcome)
 - Mathematics for Data Science
+- Machine Learning: Algorithms in the Real World
 - Programming with Google Go
 - Fundamentals of Computing
 - Object Oriented Programming in Java
@@ -29,6 +30,11 @@
 - Computational Thinking with Beginning C Programming
 - Modern Robotics: Mechanics, Planning, and Control
 - Emerging Technologies: From Smartphones to IoT to Big Data [link](https://www.coursera.org/specializations/emerging-technologies)
+- Secure Software Design
+- Fundamentals of Computer Network Security
+- Solving Complex Problems
+- Introduction to Discrete Mathematics for Computer Science
+- Design of Experiments
 
 ## Courses
 ### In progress
