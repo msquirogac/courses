@@ -35,7 +35,7 @@
 - Solving Complex Problems
 - Introduction to Discrete Mathematics for Computer Science
 - Design of Experiments
-
+- DeepLearning.AI TensorFlow Developer Professional Certificate [link](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 ## Courses
 ### In progress
 - Introduction to Embedded Systems Software and Development Environments [link](https://www.coursera.org/learn/introduction-embedded-systems/home/welcome)
