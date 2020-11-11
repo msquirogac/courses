@@ -1,5 +1,9 @@
 ## Specializations
 11/2020
+Self-Driving Cars by University of Toronto on Coursera
+[link](https://coursera.org/verify/specialization/2ZFRHH7XKGGQ)
+
+11/2020
 Reinforcement Learning by University of Alberta & Alberta Machine Intelligence Institute on Coursera
 [link](https://coursera.org/verify/specialization/AYK6EEWRGQBY)
 
