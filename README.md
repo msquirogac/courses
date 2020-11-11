@@ -72,3 +72,7 @@ The Bits and Bytes of Computer Networking by Google on Coursera
 07/2020
 Introduction to Data Science in Python by University of Michigan
 [link](https://coursera.org/verify/SS28LXU94CGG)
+
+07/2020
+PCAP: Programming Essentials In Python by Cisco Virtual Academy
+[link](https://europa.eu/!pV37pM)
