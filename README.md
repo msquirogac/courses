@@ -43,7 +43,7 @@ Python for Everybody by University of Michigan on Coursera
 ## Courses
 11/2020
 Introduction to Internet of Things by Stanford University
-[link](https://learning.stanford.edu/online/course/view.php?id=540&program=scpd#)
+[link](https://europa.eu/!vN89nh)
 
 11/2020
 Getting Started with AI on Jetson Nano by NVIDIA Deep Learning Institute
