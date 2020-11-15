@@ -39,7 +39,6 @@
 ## Courses
 ### In progress
 - Introduction to Embedded Systems Software and Development Environments [link](https://www.coursera.org/learn/introduction-embedded-systems/home/welcome)
-- Predictive Modeling and Machine Learning with MATLAB [link](https://www.coursera.org/learn/predictive-modeling-machine-learning/home/welcome)
 
 ### Starting
 - Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python [link](https://www.coursera.org/learn/computers-waves-simulations/home/welcome)
