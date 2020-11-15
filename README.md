@@ -42,6 +42,10 @@ Python for Everybody by University of Michigan on Coursera
 
 ## Courses
 11/2020
+Predictive Modeling and Machine Learning with MATLAB by MathWorks
+[link](https://coursera.org/verify/D8EUFA8L8374)
+
+11/2020
 Introduction to Internet of Things by Stanford University
 [link](https://europa.eu/!vN89nh)
 
