@@ -1,9 +1,9 @@
 ## Graduate Degree
-### In progress
+### Starting
 - Master’s Degree in Electrical Engineering by University of Colorado Boulder [link](https://www.colorado.edu/ecee/online-masters/graduate-degree)
 
 ## Graduate Certificates
-### In progress
+### Starting
 - Industrial Internet of Things Certificate by University of Colorado Boulder [link](https://www.colorado.edu/ecee/msee/graduate-certificates)
 
 ## Specializations
