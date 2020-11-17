@@ -8,7 +8,7 @@
 
 ## Specializations
 ### In progress
-- Electrónica en cápsulas [link](https://www.coursera.org/learn/entrenar-electrones-diodos-transistores/home/welcome) [link](https://www.coursera.org/learn/entrenar-electrones-aplicaciones-electronica/home/welcome)
+- Electrónica en cápsulas [link](https://www.coursera.org/learn/entrenar-electrones-aplicaciones-electronica/home/welcome)
 - Developing Industrial Internet of Things Specialization [link](https://www.coursera.org/learn/industrial-iot-markets-security/home/welcome) [link](https://www.coursera.org/learn/industrial-iot-project-planning-machine-learning/home/welcome) [link](https://www.coursera.org/learn/modeling-debugging-embedded-systems/home/welcome)
 - MATLAB Programming for Engineers and Scientists [link](https://www.coursera.org/learn/matlab/home/welcome) [link](https://www.coursera.org/learn/advanced-matlab-programming/home/welcome) [link](https://www.coursera.org/learn/matlab-image-processing/home/welcome)
 
