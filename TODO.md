@@ -18,8 +18,8 @@
 - Accelerated Computer Science Fundamentals [link](https://www.coursera.org/specializations/cs-fundamentals) [link](https://www.coursera.org/learn/cs-fundamentals-1/home/welcome) [link](https://www.coursera.org/learn/cs-fundamentals-2/home/welcome) [link](https://www.coursera.org/learn/cs-fundamentals-3/home/welcome)
 - Development of Secure Embedded Systems [link](https://www.coursera.org/specializations/embedded-systems-security) [link](https://www.coursera.org/learn/embedded-operating-system/home/welcome) [link](https://www.coursera.org/learn/iot-connectivity-security/home/welcome) [link](https://www.coursera.org/learn/real-time-systems/home/welcome) [link](https://www.coursera.org/learn/autonomous-runway-detection/home/welcome)
 - Algorithms [link](https://www.coursera.org/specializations/algorithms) [link](https://www.coursera.org/learn/algorithms-divide-conquer/home/welcome) [link](https://www.coursera.org/learn/algorithms-graphs-data-structures/home/welcome) [link](https://www.coursera.org/learn/algorithms-greedy/home/welcome) [link](https://www.coursera.org/learn/algorithms-npcomplete/home/welcome)
-- Mathematics for Data Science
 - Machine Learning: Algorithms in the Real World
+- Mathematics for Data Science
 - Programming with Google Go
 - Fundamentals of Computing
 - Object Oriented Programming in Java
@@ -38,6 +38,8 @@
 ## Courses
 ### In progress
 - Introduction to Embedded Systems Software and Development Environments [link](https://www.coursera.org/learn/introduction-embedded-systems/home/welcome)
+- Industrial IoT Markets and Security [link](https://www.coursera.org/learn/industrial-iot-markets-security/home/welcome)
+- Mastering Programming with MATLAB [link](https://www.coursera.org/learn/advanced-matlab-programming/home/welcome)
 
 ### Starting
 - Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python [link](https://www.coursera.org/learn/computers-waves-simulations/home/welcome)
