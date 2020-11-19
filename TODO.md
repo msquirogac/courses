@@ -37,7 +37,6 @@
 - DeepLearning.AI TensorFlow Developer Professional Certificate [link](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 ## Courses
 ### In progress
-- Introduction to Embedded Systems Software and Development Environments [link](https://www.coursera.org/learn/introduction-embedded-systems/home/welcome)
 - Industrial IoT Markets and Security [link](https://www.coursera.org/learn/industrial-iot-markets-security/home/welcome)
 - Mastering Programming with MATLAB [link](https://www.coursera.org/learn/advanced-matlab-programming/home/welcome)
 
