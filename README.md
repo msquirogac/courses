@@ -42,6 +42,10 @@ Python for Everybody by University of Michigan on Coursera
 
 ## Courses
 11/2020
+Introduction to Embedded Systems Software and Development Environments by University of Colorado Boulder on Coursera
+[link](https://coursera.org/verify/ZQBBZVZT5FEA)
+
+11/2020
 Introduction to Programming with MATLAB by Vanderbilt University
 [link](https://coursera.org/verify/VCMU5JZCV9E5)
 
