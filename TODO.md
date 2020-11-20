@@ -8,8 +8,8 @@
 
 ## Specializations
 ### In progress
-- Developing Industrial Internet of Things [link](https://www.coursera.org/learn/industrial-iot-markets-security/home/welcome) [link](https://www.coursera.org/learn/industrial-iot-project-planning-machine-learning/home/welcome) [link](https://www.coursera.org/learn/modeling-debugging-embedded-systems/home/welcome)
 - MATLAB Programming for Engineers and Scientists [link](https://www.coursera.org/learn/advanced-matlab-programming/home/welcome) [link](https://www.coursera.org/learn/matlab-image-processing/home/welcome)
+- Developing Industrial Internet of Things [link](https://www.coursera.org/learn/industrial-iot-markets-security/home/welcome) [link](https://www.coursera.org/learn/industrial-iot-project-planning-machine-learning/home/welcome) [link](https://www.coursera.org/learn/modeling-debugging-embedded-systems/home/welcome)
 
 ### Starting
 - FPGA Design for Embedded Systems [link](https://www.coursera.org/learn/intro-fpga-design-embedded-systems/home/welcome) [link](https://www.coursera.org/learn/fpga-hardware-description-languages/home/welcome) [link](https://www.coursera.org/learn/fpga-softcore-proccessors-ip/home/welcome)
@@ -37,8 +37,8 @@
 - DeepLearning.AI TensorFlow Developer Professional Certificate [link](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 ## Courses
 ### In progress
-- Industrial IoT Markets and Security [link](https://www.coursera.org/learn/industrial-iot-markets-security/home/welcome)
 - Mastering Programming with MATLAB [link](https://www.coursera.org/learn/advanced-matlab-programming/home/welcome)
+- Industrial IoT Markets and Security [link](https://www.coursera.org/learn/industrial-iot-markets-security/home/welcome)
 
 ### Starting
 - Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python [link](https://www.coursera.org/learn/computers-waves-simulations/home/welcome)
