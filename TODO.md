@@ -38,6 +38,7 @@
 ## Courses
 ### In progress
 - Mastering Programming with MATLAB [link](https://www.coursera.org/learn/advanced-matlab-programming/home/welcome)
+- Introduction to Data, Signal, and Image Analysis with MATLAB [link](https://www.coursera.org/learn/matlab-image-processing/home/welcome)
 - Industrial IoT Markets and Security [link](https://www.coursera.org/learn/industrial-iot-markets-security/home/welcome)
 
 ### Starting
