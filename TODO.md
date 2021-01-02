@@ -40,7 +40,8 @@
 - Mastering Programming with MATLAB [link](https://www.coursera.org/learn/advanced-matlab-programming/home/welcome)
 - Introduction to Data, Signal, and Image Analysis with MATLAB [link](https://www.coursera.org/learn/matlab-image-processing/home/welcome)
 - Industrial IoT Markets and Security [link](https://www.coursera.org/learn/industrial-iot-markets-security/home/welcome)
-
+- Project Planning and Machine Learning [link](https://www.coursera.org/learn/industrial-iot-project-planning-machine-learning/home/welcome)
+- Modeling and Debugging Embedded Systems [link](https://www.coursera.org/learn/modeling-debugging-embedded-systems/home/welcome)
 ### Starting
 - Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python [link](https://www.coursera.org/learn/computers-waves-simulations/home/welcome)
 - The Finite Element Method for Problems in Physics [link](https://www.coursera.org/learn/finite-element-method/home/welcome)
