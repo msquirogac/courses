@@ -34,6 +34,13 @@
 - DeepLearning.AI TensorFlow Developer Professional Certificate [link](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 ## Courses
 ### In progress
+- I/O-efficient algorithms [link](https://www.coursera.org/learn/io-efficient-algorithms/home/welcome)
+- Analysis of Algorithms [link](https://www.coursera.org/learn/analysis-of-algorithms/home/welcome)
+- Algorithms, Part I [link](https://www.coursera.org/learn/algorithms-part1/home/welcome)
+- Algorithms, Part II [link](https://www.coursera.org/learn/algorithms-part2/home/welcome)
+- The Finite Element Method for Problems in Physics [link](https://www.coursera.org/learn/finite-element-method/home/welcome)
+
+### Starting
 - Industrial IoT Markets and Security [link](https://www.coursera.org/learn/industrial-iot-markets-security/home/welcome)
 - Project Planning and Machine Learning [link](https://www.coursera.org/learn/industrial-iot-project-planning-machine-learning/home/welcome)
 - Modeling and Debugging Embedded Systems [link](https://www.coursera.org/learn/modeling-debugging-embedded-systems/home/welcome)
@@ -43,9 +50,7 @@
 - Data Structures and Performance [link](https://www.coursera.org/learn/data-structures-optimizing-performance/home/welcome)
 - Mastering Programming with MATLAB [link](https://www.coursera.org/learn/advanced-matlab-programming/home/welcome)
 - Introduction to Data, Signal, and Image Analysis with MATLAB [link](https://www.coursera.org/learn/matlab-image-processing/home/welcome)
-### Starting
 - Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python [link](https://www.coursera.org/learn/computers-waves-simulations/home/welcome)
-- The Finite Element Method for Problems in Physics [link](https://www.coursera.org/learn/finite-element-method/home/welcome)
 - Introdução ao Controle de Sistemas [link](https://www.coursera.org/learn/controle/home/welcome)
 - Introdução ao Controle Moderno
 - Controle a Tempo Discreto
